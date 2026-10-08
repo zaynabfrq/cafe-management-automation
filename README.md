@@ -11,6 +11,10 @@
 
 Cafe Management & CRM Automation Dashboard is an open-source project focused on making everyday café operations easier to manage through a modern, lightweight interface.
 
+## Preview
+
+![Cafe Management Dashboard](./cafe-dashboard.png)
+
 The project explores how small hospitality businesses can replace scattered manual processes with a centralized digital workflow for reservations, customer management, booking operations, and business analytics.
 
 The project is currently in early development and is being actively improved as an open-source learning and development project.
